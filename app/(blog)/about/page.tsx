@@ -21,7 +21,7 @@ const About = () => {
         <h1 className="text-4xl font-bold text-gray-800 mb-4">ABOUT ME</h1>
         <h2 className="text-xl text-purple-600 font-semibold mb-4">Rohan Mirza - Developer</h2>
         <p className="text-gray-600 mb-6">
-        I'm Muhammad Rohan Mirza! I'm a Web Developer & Graphic Desigher based in Pakistan. I'm passionate about creating elegant and efficient solutions that seamlessly integrate user-friendly experiences. I've built websites leveraging cutting-edge technologies to drive innovation and enhance business processes.
+        I am Muhammad Rohan Mirza! I am a Web Developer & Graphic Desigher based in Pakistan. I am passionate about creating elegant and efficient solutions that seamlessly integrate user-friendly experiences. I have built websites leveraging cutting-edge technologies to drive innovation and enhance business processes.
         </p>
         {/* Social Media Links */}
         <div className="flex space-x-4">
